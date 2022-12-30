@@ -1,16 +1,21 @@
-### Hi there 👋
+# Fernando Canul Caballero
 
-<!--
-**elegidocodes/elegidocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![BackGround](img/cover.png)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **software engineering** student focused on creating good quality software products, and **innovative**, **modern** and **optimized** web applications.
+
+![BackGround](img/Line.png)
+
+### My GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fismael21&hide_border=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  <!--&hide_border=true-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fismael21&langs_count=12&hide_border=true&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Note. Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+![BackGround](img/Line.png)
