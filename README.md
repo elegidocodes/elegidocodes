@@ -31,9 +31,13 @@ I'm a **software engineering**, **web developer**, **web designer**, and **3D an
 
 <br>
 
-About programming languages... All I have to say is that I had to get in contact with many programming languages even tough I usually work with back-end technologies like Java and PHP for development. Sometimes because of collage and other times because merely curiosity about how they work. The programming languages which I have more experience with are: Java, PHP, JavaScript, TypeScript and Python.
+<div align=left>
 
-I am also experienced designing web pages/applications, and style them using modern Html5, Css3, Sass, and AJAX techniques. The result: modern, optimized, and responsive web pages/applications. 
+**Programming languages...** All I have to say is that I had to get in contact with many programming languages even tough I usually work with back-end technologies like Java and PHP for development. Sometimes because of collage and other times because merely curiosity about how they work. The programming languages which I have more experience with are: **Java**, **PHP**, **JavaScript**, **TypeScript**, and **Python**.
+
+I also have experience in designing web applications using modern **Html5**, **Css3**, **Sass**, and **AJAX** techniques. **The result:** **modern**, **optimized**, and **responsive web apps**.
+
+</div>
 
 <br>
 
@@ -62,7 +66,7 @@ I am also experienced designing web pages/applications, and style them using mod
 
 <br>
 
-For frameworks I work mainly with Spring Framework, Spring Boot and Hibernate. However, I have also been in contact with frond-end frameworks and libraries like Angular and React. Right now I am more focused in **back-end development**, so I have more experience with Spring, Laravel and Express. 
+For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have also been in contact with frond-end frameworks and libraries like Angular and React. Right now I am more focused in **back-end development**, so I have more experience with Spring, Laravel and Express. 
 
 <br>
 
@@ -93,7 +97,7 @@ I usually do 3D modelling using Blender in my free time and some game developmen
 
 <br>
 
-I do use many IDEs and Code Editors for my daily work, but right now the most frequent ones are: VS Code, Apache NetBeans, Eclipse, JetBrains IDEs, Android Studio, Visual Studio, Blend, Embarcadero Dev C++, Code::Blogs, and occasionally the Notepad, Notepad++.  
+I do use many IDEs and Code Editors for my daily work, but right now the most frequent ones are: VS Code, Apache NetBeans, Eclipse, JetBrains IDEs, Android Studio, Visual Studio, Blend for Visual Studio, Embarcadero Dev C++, Code::Blogs, and occasionally the Notepad, Notepad++.  
 
 <br>
 
