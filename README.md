@@ -130,7 +130,7 @@ I usually do 3D modelling using Blender in my free time and some game developmen
 
 <div align=left>
 
-I do use many IDEs and Code Editors for my daily work, but right now the most frequent ones are: VS Code, Apache NetBeans, Eclipse, JetBrains IDEs, Android Studio, Visual Studio, Blend for Visual Studio, Embarcadero Dev C++, Code::Blogs, and occasionally the Notepad, Notepad++.  
+I do use many IDEs and Code Editors for my daily work, but right now the most frequent ones are: VS Code, Apache NetBeans, Eclipse, JetBrains' IDEs, Android Studio, Visual Studio, Blend for Visual Studio, Embarcadero Dev C++, Code::Blogs, and occasionally the Notepad, Notepad++.  
 
 </div>
 
@@ -153,7 +153,58 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 
 <br>
 
-Throughout these years, I have taken many programming, computer science, and software engineering courses either in collage and online. So, if your interested in learning programming, I recommend the ones from instructors like [Chad Darby](https://github.com/darbyluv2code), [Angela Yu](https://github.com/angelabauer), [Maximilian Schwarzmüller](https://github.com/mschwarzmueller), and [Jonas Schmedtmann](https://github.com/jonasschmedtmann). Their courses are pretty much complete, and there are also theoretical lectures that helped me to understand why things work the way they do, and gave me a solid foundation about computer science and software engineering topics. So...
+Throughout these years, I have taken many programming, computer science, and software engineering courses either in collage and online. So, if your interested in learning programming, I recommend the ones from these instructors:
+
+<details><summary><a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/" target="_blank">Angela Yu</a></summary>
+
+- 100 Days of Code: The Complete Python Pro Bootcamp for 2023
+- The Complete Flutter Development Bootcamp with Dart
+- The Complete 2023 Web Development Bootcamp
+
+</details>
+
+<!--******************************************************-->
+
+<details><summary><a href="https://www.udemy.com/user/maximilian-schwarzmuller/" target="_blank">Maximilian Schwarzmüller</a></summary>
+
+- Angular - The Complete Guide (2023 Edition)
+- Understanding TypeScript - 2023 Edition
+
+</details>
+
+<!--******************************************************-->
+
+<details><summary><a href="https://www.udemy.com/user/chaddarby2/" target="_blank">Chad Darby</a></summary>
+
+- Spring & Hibernate for Beginners (includes Spring Boot)
+
+</details>
+
+<!--******************************************************-->
+
+<details><summary><a href="https://www.udemy.com/user/jonasschmedtmann/" target="_blank">Jonas Schmedtmann</a></summary>
+
+- Build Responsive Real-World Websites with HTML and CSS
+- The Complete JavaScript Course 2023: From Zero to Expert!
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+- Node.js, Express, MongoDB & More: The Complete Bootcamp 2023
+
+</details>
+
+<!--******************************************************-->
+
+<details><summary><a href="https://www.udemy.com/user/edwin166/" target="_blank">Edwin Diaz</a></summary>
+
+- PHP for Beginners - Become a PHP Master - CMS Project
+- PHP with Laravel for beginners - Become a Master in Laravel
+
+</details>
+
+<!--******************************************************-->
+
+<br>
+
+Their courses are pretty much complete, and there are also theoretical lectures that helped me to understand why things work the way they do, and gave me a solid foundation about computer science and software engineering topics. So...
 
 > "¡Si puedes imaginarlo, puedes programarlo!"   - ProgramacionATS
 
