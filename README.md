@@ -2,7 +2,6 @@
 
 ![BackGround](img/cover.png)
 
-## About Me
 
 ```java
 
@@ -20,6 +19,12 @@ public class FernandoCanulCaballero{
 }
 
 ```
+
+## About Me
+
+![GitHub](img/icons/icons8-github.svg)
+![Open Source](img/icons/icons8-visual-game-boy.svg)
+![Open Source](img/icons/icons8-open-source.svg)
 
 Hi! I am a **software engineering**, **web developer**, **web designer**, and **3D animator (for fun)** focused on creating good quality software products, and **innovative**, **modern**, **responsive** and **optimized** web applications.
 
@@ -94,6 +99,7 @@ For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. H
 </div>
 
 <br>
+
 <a href="img/icons/hibernate-1.svg" target="_blank">
 <img src="img/icons/hibernate-1.svg" width="40" height="auto">
 </a>
@@ -142,7 +148,6 @@ For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. H
 <a href="img/icons/composer.svg" target="_blank">
 <img src="img/icons/composer.svg" width="46" height="auto">
 </a>
-
 
 ![BackGround](img/Line.png)
 
