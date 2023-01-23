@@ -83,7 +83,7 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 ![BackGround](img/Line.png)
 
-### Frameworks, DBMS, Package Managers, and VCS
+### Frameworks, DBMS, Package/Dependency Managers, and VCS
 
 <br>
 
@@ -94,15 +94,54 @@ For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. H
 </div>
 
 <br>
-
-![Spring Framework](img/icons/icons8-spring.svg)
-![Spring Boot](img/icons/icons8-spring-boot.svg)
-![Angular](img/icons/icons8-angular.svg)
-![MySQL](img/icons/icons8-mysql.svg)
-![React](img/icons/icons8-react.svg)
-![MongoDB](img/icons/icons8-mongodb.svg)
-![NPM](img/icons/icons8-npm.svg)
-![Git](img/icons/icons8-git.svg)
+<a href="img/icons/hibernate-1.svg" target="_blank">
+<img src="img/icons/hibernate-1.svg" width="40" height="auto">
+</a>
+<a href="img/icons/spring-boot.svg" target="_blank">
+<img src="img/icons/spring-boot.svg" width="46" height="auto">
+</a>
+<a href="img/icons/icons8-spring.svg" target="_blank">
+<img src="img/icons/icons8-spring.svg">
+</a>
+<a href="img/icons/laravel.svg" target="_blank">
+<img src="img/icons/laravel.svg" width="42" height="auto">
+</a>
+<a href="img/icons/angular.svg" target="_blank">
+<img src="img/icons/angular.svg" width="42" height="auto">
+</a>
+<a href="img/icons/react.svg" target="_blank">
+<img src="img/icons/react.svg" width="42" height="auto">
+</a>
+<a href="img/icons/icons8-vue-js.svg" target="_blank">
+<img src="img/icons/icons8-vue-js.svg">
+</a>
+<a href="img/icons/icons8-bootstrap.svg" target="_blank">
+<img src="img/icons/icons8-bootstrap.svg">
+</a>
+<a href="img/icons/mongodb.svg" target="_blank">
+<img src="img/icons/mongodb.svg" width="52" height="auto">
+</a>
+<a href="img/icons/icons8-mysql.svg" target="_blank">
+<img src="img/icons/icons8-mysql.svg">
+</a>
+<a href="img/icons/icons8-microsoft-sql-server.svg" target="_blank">
+<img src="img/icons/icons8-microsoft-sql-server.svg">
+</a>
+<a href="img/icons/icons8-postgresql.svg" target="_blank">
+<img src="img/icons/icons8-postgresql.svg">
+</a>
+<a href="img/icons/icons8-npm.svg" target="_blank">
+<img src="img/icons/icons8-npm.svg">
+</a>
+<a href="img/icons/composer.svg" target="_blank">
+<img src="img/icons/composer.svg" width="46" height="auto">
+</a>
+<a href="img/icons/vite.svg" target="_blank">
+<img src="img/icons/vite.svg" width="44" height="auto">
+</a>
+<a href="img/icons/icons8-git.svg" target="_blank">
+<img src="img/icons/icons8-git.svg">
+</a>
 
 ![BackGround](img/Line.png)
 
