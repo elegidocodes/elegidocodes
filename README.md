@@ -155,7 +155,9 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 
 Throughout these years, I have taken many programming, computer science, and software engineering courses either in collage and online. So, if your interested in learning programming, I recommend the ones from these instructors:
 
-<details><summary><a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/" target="_blank">Angela Yu</a></summary>
+<details><summary>Angela Yu</summary>
+
+<a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/" target="_blank">Udemy Profile</a>
 
 - 100 Days of Code: The Complete Python Pro Bootcamp for 2023
 - The Complete Flutter Development Bootcamp with Dart
