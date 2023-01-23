@@ -8,39 +8,20 @@ I'm a **software engineering**, **web developer**, **web designer**, and **3D an
 
 ![BackGround](img/Line.png)
 
-## Stats
-
+## Statics
 
 <div align=center>
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs,issues&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-  
-![BackGround](img/Line.png)
-
 ### My GitHub Stats
-
-<div style="border:#ffffff; border-width:1px; border-style:solid; margin-top: 20px; margin-bottom: 20px; padding-top: 15px">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![BackGround](img/Line.png)
 
-</div>
-  <!--&hide_border=true-->
-
 ### Most Used Languages
 
-<div style="border:#ffffff; border-width:1px; border-style:solid;  margin-top: 20px; padding-top: 10px">
-
-![BackGround](img/Line.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div style="border:#ffffff; border-width:1px; border-style:solid; margin-bottom: 20px; margin-top: 20px; padding-top: 10px" >
 
 ![BackGround](img/Line.png)
 
@@ -62,28 +43,12 @@ I'm a **software engineering**, **web developer**, **web designer**, and **3D an
 ![HTML5](img/icons/icons8-html-5.svg)
 ![CSS3](img/icons/icons8-css3.svg)
 
-</div>
-
-<div style="border:#ffffff; border-width:1px; border-style:solid; margin-bottom: 20px; margin-top: 20px; padding-top: 10px" >
-
 ![BackGround](img/Line.png)
 
 ![React](img/icons/icons8-react.svg)
 ![Spring Framework](img/icons/icons8-spring.svg)
 
 ![BackGround](img/Line.png)
-
-</div>
-
-<!--
-
-<div style="border:#ffffff; border-width:1px; border-style:solid; margin-bottom: 20px; margin-top: 20px; padding-top: 10px">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&theme=github_dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
--->
 
 </div>
 
