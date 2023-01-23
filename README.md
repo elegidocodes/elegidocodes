@@ -23,7 +23,11 @@ I'm a **software engineering**, **web developer**, **web designer**, and **3D an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align=left>
+
 **Note:** most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+</div>
 
 ![BackGround](img/Line.png)
 
@@ -66,7 +70,11 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 <br>
 
+<div align=left>
+
 For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have also been in contact with frond-end frameworks and libraries like Angular and React. Right now I am more focused in **back-end development**, so I have more experience with Spring, Laravel and Express. 
+
+</div>
 
 <br>
 
@@ -83,7 +91,11 @@ For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. H
 
 <br>
 
+<div align=left>
+
 I usually do 3D modelling using Blender in my free time and some game development either with Unity or Unreal Engine. I have to mention that **I'm not a professional in game development**, but just an amateur who likes to work with graphics and all that stuff. 
+
+</div>
 
 <br>
 
@@ -97,7 +109,11 @@ I usually do 3D modelling using Blender in my free time and some game developmen
 
 <br>
 
+<div align=left>
+
 I do use many IDEs and Code Editors for my daily work, but right now the most frequent ones are: VS Code, Apache NetBeans, Eclipse, JetBrains IDEs, Android Studio, Visual Studio, Blend for Visual Studio, Embarcadero Dev C++, Code::Blogs, and occasionally the Notepad, Notepad++.  
+
+</div>
 
 <br>
 
@@ -114,7 +130,7 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 
 </div>
 
-## Course I've Taken and I Recommend
+## Courses I have Taken and I Recommend
 
 <br>
 
