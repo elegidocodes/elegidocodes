@@ -110,6 +110,6 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 
 <br>
 
-Throughout this years I have taken many programming, computers science, and software engineering courses either in collage and online. So, if your interested in learning programming, I recommend the ones from instructors like @github/darbyluv2code, @github/angelabauer, and @github/jonasschmedtmann.
+Throughout this years I have taken many programming, computers science, and software engineering courses either in collage and online. So, if your interested in learning programming, I recommend the ones from instructors like @darbyluv2code, @angelabauer, @mschwarzmueller, and @jonasschmedtmann.
 
 ![BackGround](img/Line.png)
