@@ -296,3 +296,9 @@ Their courses are pretty much complete, and there are also theoretical lectures 
 > "¡Si puedes imaginarlo, puedes programarlo!"   - ProgramacionATS
 
 ![BackGround](img/Line.png)
+
+## Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elegidocodes&repo=Spring-Hibernate-Course&show_owner=true)](https://github.com/elegidocodes/Spring-Hibernate-Course)
+
+![BackGround](img/Line.png)
