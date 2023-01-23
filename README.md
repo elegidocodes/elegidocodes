@@ -26,7 +26,7 @@ public class FernandoCanulCaballero{
 ![Open Source](img/icons/icons8-visual-game-boy.svg)
 ![Open Source](img/icons/icons8-open-source.svg)
 
-Hi! I am a **software engineering**, **web developer**, **web designer**, and **3D animator (for fun)** focused on creating good quality software products, and **innovative**, **modern**, **responsive** and **optimized** web applications.
+Hi! I am a **software engineering**, **web developer**, **web designer**, and **3D animator (for fun)** focused on creating good quality software products, and **innovative**, **modern**, **responsive**, and **optimized** web applications.
 
 ![BackGround](img/Line.png)
 
@@ -94,7 +94,7 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 <div align=left>
 
-For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have also been in contact with frond-end frameworks and libraries like Angular and React. Right now I am more focused in **back-end development**, so I have more experience with Spring, Laravel and Express. 
+I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have also been in contact with frond-end frameworks and libraries like Angular and React. Currently, I am more focused in **back-end development**, so I have more experience with Spring, Laravel and Express. 
 
 </div>
 
@@ -157,7 +157,7 @@ For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. H
 
 <div align=left>
 
-I usually do 3D modelling using Blender in my free time and some game development either with Unity or Unreal Engine. I have to mention that **I'm not a professional in game development**, but just an amateur who likes to work with graphics and all that stuff. 
+I usually do 3D modelling using Blender in my free time and some game development either with Unity or Unreal Engine. I have to mention that **I'm not a professional in game development**, but just an amateur who likes to work with digital image processing, 3D graphics, and all that stuff. 
 
 </div>
 
@@ -293,7 +293,7 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 Their courses are pretty much complete, and there are also theoretical lectures that helped me to understand why things work the way they do, and gave me a solid foundation about computer science and software engineering topics. So...
 
-> "¡Si puedes imaginarlo, puedes programarlo!"   - ProgramacionATS
+> "If you can imagine it, you can program it!"   - ProgramacionATS
 
 ![BackGround](img/Line.png)
 
