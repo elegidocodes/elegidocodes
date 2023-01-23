@@ -234,6 +234,8 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <details><summary>Angela Yu</summary>
 
+<br>
+
 <a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/" target="_blank">Udemy Profile</a>
 
 - 100 Days of Code: The Complete Python Pro Bootcamp for 2023
@@ -246,6 +248,8 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <details><summary>Maximilian Schwarzmüller</summary>
 
+<br>
+
 <a href="https://www.udemy.com/user/maximilian-schwarzmuller/" target="_blank">Udemy Profile</a>
 
 - Angular - The Complete Guide (2023 Edition)
@@ -257,6 +261,8 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <details><summary>Chad Darby</summary>
 
+<br>
+
 <a href="https://www.udemy.com/user/chaddarby2/" target="_blank">Udemy Profile</a>
 
 - Spring & Hibernate for Beginners (includes Spring Boot)
@@ -266,6 +272,8 @@ Throughout these years, I have taken many programming, computer science, and sof
 <!--******************************************************-->
 
 <details><summary>Jonas Schmedtmann</summary>
+
+<br>
 
 <a href="https://www.udemy.com/user/jonasschmedtmann/" target="_blank">Udemy Profile</a>
 
@@ -279,6 +287,8 @@ Throughout these years, I have taken many programming, computer science, and sof
 <!--******************************************************-->
 
 <details><summary>Edwin Diaz</summary>
+
+<br>
 
 <a href="https://www.udemy.com/user/edwin166/" target="_blank">Udemy Profile</a>
 
