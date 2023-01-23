@@ -101,7 +101,7 @@ For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. H
 <img src="img/icons/icons8-spring.svg">
 </a>
 <a href="img/icons/spring-boot.svg" target="_blank">
-<img src="img/icons/spring-boot.svg" width="46" height="auto">
+<img src="img/icons/spring-boot.svg" width="44" height="auto">
 </a>
 <a href="img/icons/laravel.svg" target="_blank">
 <img src="img/icons/laravel.svg" width="42" height="auto">
