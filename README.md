@@ -23,7 +23,15 @@ I'm a **software engineering**, **web developer**, **web designer**, and **3D an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+**Note:** most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 ![BackGround](img/Line.png)
+
+### Programming Languages, SDKs, Preprocessor, and Run Time Environment
+
+<br>
+
+<br>
 
 ![C](img/icons/icons8-c.svg)
 ![C++](img/icons/icons8-cpp.svg)
@@ -31,10 +39,11 @@ I'm a **software engineering**, **web developer**, **web designer**, and **3D an
 ![Java](img/icons/icons8-java.svg)
 ![Kotlin](img/icons/icons8-kotlin.svg)
 ![Dart](img/icons/icons8-dart.svg)
+![Flutter](img/icons/icons8-flutter.svg)
 ![PHP](img/icons/icons8-php.svg)
 ![Ruby](img/icons/icons8-ruby.svg)
 ![Go](img/icons/icons8-golang.svg)
-![Rust](img/icons/icons8-rust-48.png)
+![Rust](img/icons/icons8-rust.svg)
 ![Node](img/icons/icons8-nodejs.svg)
 ![JavaScript](img/icons/icons8-javascript.svg)
 ![TypeScript](img/icons/icons8-typescript.svg)
@@ -45,15 +54,62 @@ I'm a **software engineering**, **web developer**, **web designer**, and **3D an
 
 ![BackGround](img/Line.png)
 
-![React](img/icons/icons8-react.svg)
+### Frameworks, DBMS, Package Managers, and VCS
+
+<br>
+
+For frameworks I work mainly with Spring Framework, Spring Boot and Hibernate. However, I have also been in contact with frond-end frameworks and libraries like Angular and React. Right now I am more focused in **back-end development**, so I have more experience with Spring, Laravel and Express. 
+
+<br>
+
 ![Spring Framework](img/icons/icons8-spring.svg)
+![MySQL](img/icons/icons8-mysql.svg)
+![React](img/icons/icons8-react.svg)
+![MongoDB](img/icons/icons8-mongodb.svg)
+![NPM](img/icons/icons8-npm.svg)
+![Git](img/icons/icons8-git.svg)
+
+![BackGround](img/Line.png)
+
+### 3D Modelling and Game Development
+
+<br>
+
+I usually do 3D modelling using Blender in my free time and some game development either with Unity or Unreal Engine. I have to mention that **I'm not a professional in game development**, but just an amateur who likes to work with graphics and all that stuff. 
+
+<br>
+
+![Blender](img/icons/icons8-blender-3d.svg)
+![Unreal Engine](img/icons/icons8-unreal-engine.svg)
+![Unity](img/icons/icons8-unity.svg)
+
+![BackGround](img/Line.png)
+
+### Most Common IDEs and Code Editors
+
+<br>
+
+I do use many IDEs and Code Editors for my daily work, but right now the most frequent ones are: VS Code, Apache NetBeans, Eclipse, JetBrains IDEs, Android Studio, Visual Studio, Blend, Embarcadero Dev C++, Code::Blogs, and occasionally the Notepad, Notepad++.  
+
+<br>
+
+![Android Studio](img/icons/icons8-android-studio.svg)
+![Visual Studio](img/icons/icons8-visual-studio.svg)
+![Visual Studio](img/icons/icons8-visual-studio-code-2019.svg)
+![Visual Studio](img/icons/icons8-intellij-idea.svg)
+![Visual Studio](img/icons/icons8-pycharm.svg)
+![Visual Studio](img/icons/icons8-code-blocks.svg)
+![Visual Studio](img/icons/icons8-notepad++.svg)
+![Visual Studio](img/icons/icons8-windows-notepad.svg)
 
 ![BackGround](img/Line.png)
 
 </div>
 
-Note. Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 ## Course I've Taken and I Recommend
+
+<br>
+
+Throughout this years I have taken many programming, computers science, and software engineering courses either in collage and online. So, if your interested in learning programming, I recommend the ones from instructors like @github/darbyluv2code, @github/angelabauer, and @github/jonasschmedtmann.
 
 ![BackGround](img/Line.png)
