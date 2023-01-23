@@ -48,7 +48,7 @@ Hi! I am a **software engineering**, **web developer**, **web designer**, and **
 
 ![BackGround](img/Line.png)
 
-### Programming Languages, SDKs, Preprocessor, and Run Time Environment
+### Programming Languages, SDK, Preprocessor, and Run Time Environment
 
 <br>
 
