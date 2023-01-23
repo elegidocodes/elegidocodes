@@ -137,13 +137,45 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 <br>
 
 ![Android Studio](img/icons/icons8-android-studio.svg)
+![Eclipse](img/icons/icons8-java-eclipse.svg)
 ![Visual Studio](img/icons/icons8-visual-studio.svg)
 ![Visual Studio Code](img/icons/icons8-visual-studio-code-2019.svg)
-![IntelliJ IDEA](img/icons/icons8-intellij-idea.svg)
-![PyCharm](img/icons/icons8-pycharm.svg)
 ![Code::Blogs](img/icons/icons8-code-blocks.svg)
 ![Notepad++](img/icons/icons8-notepad++.svg)
 ![Notepad](img/icons/icons8-windows-notepad.svg)
+<a href="img/icons/apache-netbeans.svg" target="_blank">
+<img src="img/icons/apache-netbeans.svg" width="46" height="auto">
+</a>
+<a href="img/icons/idea.svg" target="_blank">
+<img src="img/icons/idea.svg" width="46" height="auto">
+</a>
+<a href="img/icons/pycharm.svg" target="_blank">
+<img src="img/icons/pycharm.svg" width="46" height="auto">
+</a>
+<a href="img/icons/phpstorm.svg" target="_blank">
+<img src="img/icons/phpstorm.svg" width="46" height="auto">
+</a>
+<a href="img/icons/webstorm.svg" target="_blank">
+<img src="img/icons/webstorm.svg" width="46" height="auto">
+</a>
+<a href="img/icons/clion.svg" target="_blank">
+<img src="img/icons/clion.svg" width="46" height="auto">
+</a>
+<a href="img/icons/datagrip.svg" target="_blank">
+<img src="img/icons/datagrip.svg" width="46" height="auto">
+</a>
+<a href="img/icons/goland.svg" target="_blank">
+<img src="img/icons/goland.svg" width="46" height="auto">
+</a>
+<a href="img/icons/rider.svg" target="_blank">
+<img src="img/icons/rider.svg" width="46" height="auto">
+</a>
+<a href="img/icons/rubymine.svg" target="_blank">
+<img src="img/icons/rubymine.svg" width="46" height="auto">
+</a>
+<a href="img/icons/dataspell.svg" target="_blank">
+<img src="img/icons/dataspell.svg" width="46" height="auto">
+</a>
 
 ![BackGround](img/Line.png)
 
