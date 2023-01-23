@@ -31,6 +31,10 @@ I'm a **software engineering**, **web developer**, **web designer**, and **3D an
 
 <br>
 
+About programming languages... All I have to say is that I had to get in contact with many programming languages even tough I usually work with back-end technologies like Java and PHP for development. Sometimes because of collage and other times because merely curiosity about how they work. The programming languages which I have more experience with are: Java, PHP, JavaScript, TypeScript and Python.
+
+I am also experienced designing web pages/applications, and style them using modern Html5, Css3, Sass, and AJAX techniques. The result: modern, optimized, and responsive web pages/applications. 
+
 <br>
 
 ![C](img/icons/icons8-c.svg)
@@ -110,6 +114,6 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 
 <br>
 
-Throughout these years I have taken many programming, computer science, and software engineering courses either in collage and online. So, if your interested in learning programming, I recommend the ones from instructors like [Chad Darby](https://github.com/darbyluv2code), [Angela Yu](https://github.com/angelabauer), [Maximilian Schwarzmüller](https://github.com/mschwarzmueller), and [Jonas Schmedtmann](https://github.com/jonasschmedtmann). Their courses are pretty much complete, and there are also theoretical lectures that helped me to understand why things work the way they do.
+Throughout these years, I have taken many programming, computer science, and software engineering courses either in collage and online. So, if your interested in learning programming, I recommend the ones from instructors like [Chad Darby](https://github.com/darbyluv2code), [Angela Yu](https://github.com/angelabauer), [Maximilian Schwarzmüller](https://github.com/mschwarzmueller), and [Jonas Schmedtmann](https://github.com/jonasschmedtmann). Their courses are pretty much complete, and there are also theoretical lectures that helped me to understand why things work the way they do, and gave me a solid foundation about computer science and software engineering topics.
 
 ![BackGround](img/Line.png)
