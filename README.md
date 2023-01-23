@@ -97,8 +97,8 @@ For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. H
 
 ![Spring Framework](img/icons/icons8-spring.svg)
 ![Spring Boot](img/icons/icons8-spring-boot.svg)
-![MySQL](img/icons/icons8-mysql.svg)
 ![Angular](img/icons/icons8-angular.svg)
+![MySQL](img/icons/icons8-mysql.svg)
 ![React](img/icons/icons8-react.svg)
 ![MongoDB](img/icons/icons8-mongodb.svg)
 ![NPM](img/icons/icons8-npm.svg)
@@ -138,12 +138,12 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 
 ![Android Studio](img/icons/icons8-android-studio.svg)
 ![Visual Studio](img/icons/icons8-visual-studio.svg)
-![Visual Studio](img/icons/icons8-visual-studio-code-2019.svg)
-![Visual Studio](img/icons/icons8-intellij-idea.svg)
-![Visual Studio](img/icons/icons8-pycharm.svg)
-![Visual Studio](img/icons/icons8-code-blocks.svg)
-![Visual Studio](img/icons/icons8-notepad++.svg)
-![Visual Studio](img/icons/icons8-windows-notepad.svg)
+![Visual Studio Code](img/icons/icons8-visual-studio-code-2019.svg)
+![IntelliJ IDEA](img/icons/icons8-intellij-idea.svg)
+![PyCharm](img/icons/icons8-pycharm.svg)
+![Code::Blogs](img/icons/icons8-code-blocks.svg)
+![Notepad++](img/icons/icons8-notepad++.svg)
+![Notepad](img/icons/icons8-windows-notepad.svg)
 
 ![BackGround](img/Line.png)
 
