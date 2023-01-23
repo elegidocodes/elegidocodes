@@ -97,11 +97,11 @@ For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. H
 <a href="img/icons/hibernate-1.svg" target="_blank">
 <img src="img/icons/hibernate-1.svg" width="40" height="auto">
 </a>
-<a href="img/icons/spring-boot.svg" target="_blank">
-<img src="img/icons/spring-boot.svg" width="46" height="auto">
-</a>
 <a href="img/icons/icons8-spring.svg" target="_blank">
 <img src="img/icons/icons8-spring.svg">
+</a>
+<a href="img/icons/spring-boot.svg" target="_blank">
+<img src="img/icons/spring-boot.svg" width="46" height="auto">
 </a>
 <a href="img/icons/laravel.svg" target="_blank">
 <img src="img/icons/laravel.svg" width="42" height="auto">
@@ -133,15 +133,16 @@ For frameworks I mainly work with Spring Framework, Spring Boot and Hibernate. H
 <a href="img/icons/icons8-npm.svg" target="_blank">
 <img src="img/icons/icons8-npm.svg">
 </a>
-<a href="img/icons/composer.svg" target="_blank">
-<img src="img/icons/composer.svg" width="46" height="auto">
-</a>
 <a href="img/icons/vite.svg" target="_blank">
 <img src="img/icons/vite.svg" width="44" height="auto">
 </a>
 <a href="img/icons/icons8-git.svg" target="_blank">
 <img src="img/icons/icons8-git.svg">
 </a>
+<a href="img/icons/composer.svg" target="_blank">
+<img src="img/icons/composer.svg" width="46" height="auto">
+</a>
+
 
 ![BackGround](img/Line.png)
 
