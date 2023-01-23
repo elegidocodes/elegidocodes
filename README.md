@@ -167,7 +167,9 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <!--******************************************************-->
 
-<details><summary><a href="https://www.udemy.com/user/maximilian-schwarzmuller/" target="_blank">Maximilian Schwarzmüller</a></summary>
+<details><summary>Maximilian Schwarzmüller</summary>
+
+<a href="https://www.udemy.com/user/maximilian-schwarzmuller/" target="_blank">Udemy Profile</a>
 
 - Angular - The Complete Guide (2023 Edition)
 - Understanding TypeScript - 2023 Edition
@@ -176,7 +178,9 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <!--******************************************************-->
 
-<details><summary><a href="https://www.udemy.com/user/chaddarby2/" target="_blank">Chad Darby</a></summary>
+<details><summary>Chad Darby</summary>
+
+<a href="https://www.udemy.com/user/chaddarby2/" target="_blank">Udemy Profile</a>
 
 - Spring & Hibernate for Beginners (includes Spring Boot)
 
@@ -184,7 +188,9 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <!--******************************************************-->
 
-<details><summary><a href="https://www.udemy.com/user/jonasschmedtmann/" target="_blank">Jonas Schmedtmann</a></summary>
+<details><summary>Jonas Schmedtmann</summary>
+
+<a href="https://www.udemy.com/user/jonasschmedtmann/" target="_blank">Udemy Profile</a>
 
 - Build Responsive Real-World Websites with HTML and CSS
 - The Complete JavaScript Course 2023: From Zero to Expert!
@@ -195,7 +201,9 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <!--******************************************************-->
 
-<details><summary><a href="https://www.udemy.com/user/edwin166/" target="_blank">Edwin Diaz</a></summary>
+<details><summary>Edwin Diaz</summary>
+
+<a href="https://www.udemy.com/user/edwin166/" target="_blank">Udemy Profile</a>
 
 - PHP for Beginners - Become a PHP Master - CMS Project
 - PHP with Laravel for beginners - Become a Master in Laravel
