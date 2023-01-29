@@ -8,7 +8,7 @@
 /**
 * @author: Fernando Ismael Canul Caballero.
 *  
-* Note: I live Java programming language.
+* Note: I love Java programming language.
 */
 
 public class FernandoCanulCaballero{
