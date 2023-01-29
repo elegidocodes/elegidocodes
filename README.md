@@ -230,7 +230,7 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 
 <br>
 
-Throughout these years, I have taken many programming, computer science, and software engineering courses either in collage and online. So, if your interested in learning programming, I recommend the ones from these instructors:
+Throughout these years, I have taken many programming, computer science, and software engineering courses both in collage and online. So, if your interested in learning programming, I recommend the ones from these instructors:
 
 <details><summary>Angela Yu</summary>
 
