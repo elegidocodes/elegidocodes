@@ -181,13 +181,27 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 
 <br>
 
-![Android Studio](img/icons/icons8-android-studio.svg)
-![Eclipse](img/icons/icons8-java-eclipse.svg)
-![Visual Studio](img/icons/icons8-visual-studio.svg)
-![Visual Studio Code](img/icons/icons8-visual-studio-code-2019.svg)
-![Code::Blogs](img/icons/icons8-code-blocks.svg)
-![Notepad++](img/icons/icons8-notepad++.svg)
-![Notepad](img/icons/icons8-windows-notepad.svg)
+<a href="img/icons/icons8-android-studio.svg" target="_blank">
+<img src="img/icons/icons8-android-studio.svg">
+</a>
+<a href="img/icons/icons8-java-eclipse.svg" target="_blank">
+<img src="img/icons/icons8-java-eclipse.svg">
+</a>
+<a href="img/icons/icons8-visual-studio.svg" target="_blank">
+<img src="img/icons/icons8-visual-studio.svg">
+</a>
+<a href="img/icons/icons8-visual-studio-code-2019.svg" target="_blank">
+<img src="img/icons/icons8-visual-studio-code-2019.svg">
+</a>
+<a href="img/icons/icons8-code-blocks.svg" target="_blank">
+<img src="img/icons/icons8-code-blocks.svg">
+</a>
+<a href="img/icons/icons8-notepad++.svg" target="_blank">
+<img src="img/icons/icons8-notepad++.svg">
+</a>
+<a href="img/icons/icons8-windows-notepad.svg" target="_blank">
+<img src="img/icons/icons8-windows-notepad.svg">
+</a>
 <a href="img/icons/apache-netbeans.svg" target="_blank">
 <img src="img/icons/apache-netbeans.svg" width="46" height="auto">
 </a>
