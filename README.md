@@ -5,12 +5,6 @@
 
 ```java
 
-/**
-* @author: Fernando Ismael Canul Caballero.
-*  
-* Note: I love Java programming language.
-*/
-
 public class FernandoCanulCaballero{
 
   public static void main(String[] args){
