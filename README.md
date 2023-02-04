@@ -22,7 +22,7 @@ public class FernandoCanulCaballero{
 ## About Me
 
 
-<a href="img/logo.gif" target="_blank"><img src = "img/logo.gif"/></a>
+<a href="img/logo-cover.gif" target="_blank"><img src = "img/logo.gif"/></a>
 
 Hi! I am a **software engineering**, **web developer**, **web designer**, and **3D animator (for fun)** focused on creating good quality software products, and **innovative**, **modern**, **responsive**, and **optimized** web applications.
 
