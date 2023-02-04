@@ -314,7 +314,11 @@ Their courses are pretty much complete, and there are also theoretical lectures 
 
 > "If you can imagine it, you can program it!"   - ProgramacionATS
 
+<br>
+
 ![BackGround](img/Line.png)
+
+<!--
 
 ## Pinned Repositories
 
@@ -323,3 +327,5 @@ Their courses are pretty much complete, and there are also theoretical lectures 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elegidocodes&repo=Portafolio&show_owner=true)](https://github.com/elegidocodes/Portafolio)
 
 ![BackGround](img/Line.png)
+
+-->
