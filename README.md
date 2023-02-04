@@ -320,6 +320,6 @@ Their courses are pretty much complete, and there are also theoretical lectures 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elegidocodes&repo=Spring-Hibernate-Course&show_owner=true)](https://github.com/elegidocodes/Spring-Hibernate-Course)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elegidocodes&repo=Node-Express-MongoDB-Course&show_owner=true)](https://github.com/elegidocodes/Node-Express-MongoDB-Course)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elegidocodes&repo=Portafolio&show_owner=true)](https://github.com/elegidocodes/Portafolio-Course)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elegidocodes&repo=Portafolio&show_owner=true)](https://github.com/elegidocodes/Portafolio)
 
 ![BackGround](img/Line.png)
