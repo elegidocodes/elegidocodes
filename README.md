@@ -1,4 +1,4 @@
-# Elegido Codes
+# Fernando Canul Caballero
 
 ![BackGround](img/cover.png)
 
@@ -54,7 +54,7 @@ Hi! I am a **software engineering**, **web developer**, **web designer**, and **
 
 <div align=left>
 
-**Programming languages...** All I have to say is that I had to get in contact with many programming languages even tough I usually work with back-end technologies like Java and PHP for development. Sometimes because of collage and other times because merely curiosity about how they work. The programming languages which I have more experience with are: **Java**, **PHP**, **JavaScript**, **TypeScript**, and **Python**.
+**Programming languages...** All I have to say is that I had to get in contact with many programming languages even tough I usually work with back-end technologies like Java and PHP for development. Sometimes because of college and other times because merely curiosity about how they work. The programming languages which I have more experience with are: **Java**, **PHP**, **JavaScript**, **TypeScript**, and **Python**.
 
 I also have experience in designing web applications using modern **Html5**, **Css3**, **Sass**, and **AJAX** techniques. **The result:** **modern**, **optimized**, and **responsive web apps**.
 
