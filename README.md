@@ -15,11 +15,14 @@ public class FernandoCanulCaballero{
 
 ```
 
+<br>
+
+![BackGround](img/Line.png)
+
 ## About Me
 
-![GitHub](img/icons/icons8-github.svg)
-![Open Source](img/icons/icons8-visual-game-boy.svg)
-![Open Source](img/icons/icons8-open-source.svg)
+
+<a href="img/logo.gif" target="_blank"><img src = "img/logo.gif"/></a>
 
 Hi! I am a **software engineering**, **web developer**, **web designer**, and **3D animator (for fun)** focused on creating good quality software products, and **innovative**, **modern**, **responsive**, and **optimized** web applications.
 
@@ -48,13 +51,13 @@ Hi! I am a **software engineering**, **web developer**, **web designer**, and **
 
 ![BackGround](img/Line.png)
 
-### Programming Languages, SDK, Preprocessor, and Run Time Environment
+### Programming Languages
 
 <br>
 
 <div align=left>
 
-**Programming languages...** All I have to say is that I had to get in contact with many programming languages even tough I usually work with back-end technologies like Java and PHP for development. Sometimes because of college and other times because merely curiosity about how they work. The programming languages which I have more experience with are: **Java**, **PHP**, **JavaScript**, **TypeScript**, and **Python**.
+**Programming languages...** I usually get in contact with various programming languages. The programming languages which I have more experience with are: **Java**, **PHP**, **JavaScript**, **TypeScript**, and **Python**.
 
 I also have experience in designing web applications using modern **Html5**, **Css3**, **Sass**, and **AJAX** techniques. **The result:** **modern**, **optimized**, and **responsive web apps**.
 
@@ -83,7 +86,7 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 ![BackGround](img/Line.png)
 
-### Frameworks, DBMS, Package/Dependency Managers, and VCS
+### Frameworks, DBMS, Package/Dependency Managers, and More
 
 <br>
 
