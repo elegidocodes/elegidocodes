@@ -130,57 +130,24 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 <div align=left>
 
-I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have also been in contact with frond-end frameworks and libraries like Angular and React. Currently, I am more focused in **back-end development**, so I have more experience with Spring, Laravel and Express. 
+I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have also been in contact with frond-end frameworks and libraries like Angular and React. Currently, I am more focused in **back-end development**, so I have more experience with Spring and Laravel. 
 
 </div>
 
 <br>
 
 <div>
-<a href="img/icons/hibernate-1.svg" target="_blank">
-<img src="img/icons/hibernate-1.svg" width="40" height="auto">
-</a>
-<a href="img/icons/icons8-spring.svg" target="_blank">
-<img src="img/icons/icons8-spring.svg">
-</a>
-<a href="img/icons/spring-boot.svg" target="_blank">
-<img src="img/icons/spring-boot.svg" width="44" height="auto">
-</a>
-<a href="img/icons/laravel.svg" target="_blank">
-<img src="img/icons/laravel.svg" width="42" height="auto">
-</a>
 <a href="img/icons/angular.svg" target="_blank">
 <img src="img/icons/angular.svg" width="42" height="auto">
 </a>
 <a href="img/icons/react.svg" target="_blank">
 <img src="img/icons/react.svg" width="42" height="auto">
 </a>
-<a href="img/icons/icons8-vue-js.svg" target="_blank">
-<img src="img/icons/icons8-vue-js.svg">
+<a href="img/icons/icons8-spring.svg" target="_blank">
+<img src="img/icons/icons8-spring.svg">
 </a>
-</div>
-
-<div>
-<a href="img/icons/icons8-bootstrap.svg" target="_blank">
-<img src="img/icons/icons8-bootstrap.svg">
-</a>
-<a href="img/icons/mongodb.svg" target="_blank">
-<img src="img/icons/mongodb.svg" width="52" height="auto">
-</a>
-<a href="img/icons/icons8-mysql.svg" target="_blank">
-<img src="img/icons/icons8-mysql.svg">
-</a>
-<a href="img/icons/icons8-npm.svg" target="_blank">
-<img src="img/icons/icons8-npm.svg">
-</a>
-<a href="img/icons/vite.svg" target="_blank">
-<img src="img/icons/vite.svg" width="44" height="auto">
-</a>
-<a href="img/icons/icons8-git.svg" target="_blank">
-<img src="img/icons/icons8-git.svg">
-</a>
-<a href="img/icons/composer.svg" target="_blank">
-<img src="img/icons/composer.svg" width="46" height="auto">
+<a href="img/icons/laravel.svg" target="_blank">
+<img src="img/icons/laravel.svg" width="42" height="auto">
 </a>
 </div>
 
