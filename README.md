@@ -33,15 +33,11 @@ Software engineer, web developer, web designer, and 3D animator (for fun) focuse
 
 <br>
 
-<div align=center>
-
 ## Statics
 
 <br>
 
-![BackGround](img/Line.png)
-
-<br>
+<div align=center>
 
 ### My GitHub Stats
 
@@ -75,11 +71,11 @@ Software engineer, web developer, web designer, and 3D animator (for fun) focuse
 
 <br>
 
+<div align=left>
+
 ## Technologies
 
-<br>
-
-![BackGround](img/Line.png)
+</div>
 
 <br>
 
@@ -129,17 +125,17 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 <br>
 
 <div>
-<a href="img/icons/angular.svg" target="_blank">
-<img src="img/icons/angular.svg" width="42" height="auto">
+<a href="img/icons/laravel.svg" target="_blank">
+<img src="img/icons/laravel.svg" width="42" height="auto">
 </a>
 <a href="img/icons/react.svg" target="_blank">
 <img src="img/icons/react.svg" width="42" height="auto">
 </a>
+<a href="img/icons/angular.svg" target="_blank">
+<img src="img/icons/angular.svg" width="42" height="auto">
+</a>
 <a href="img/icons/icons8-spring.svg" target="_blank">
 <img src="img/icons/icons8-spring.svg">
-</a>
-<a href="img/icons/laravel.svg" target="_blank">
-<img src="img/icons/laravel.svg" width="42" height="auto">
 </a>
 </div>
 
@@ -177,7 +173,7 @@ I do 3D modelling using Blender in my free time and some game development either
 
 <div align=left>
 
-I use many IDEs and code editors, but the most frequent ones are: Visual Studio Code, Apache NetBeans, Eclipse, JetBrains' IDEs, Android Studio, Visual Studio, Code::Blogs, Notepad, and Notepad++.  
+I use many IDEs and code editors, but the most frequent ones are: Apache NetBeans, Eclipse, JetBrains' IDEs, Android Studio, Visual Studio, Visual Studio Code, and Code::Blogs.
 
 </div>
 
@@ -228,9 +224,9 @@ I use many IDEs and code editors, but the most frequent ones are: Visual Studio 
 </a>
 </div>
 
-<br>
-
 </div>
+
+<br>
 
 ![BackGround](img/Line.png)
 
