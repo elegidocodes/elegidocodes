@@ -19,26 +19,49 @@ public class FernandoCanulCaballero{
 
 ![BackGround](img/Line.png)
 
+<br>
+
 ## About Me
 
-Hi! I am a **software engineering**, **web developer**, **web designer**, and **3D animator (for fun)** focused on creating good quality software products, and **innovative**, **modern**, **responsive**, and **optimized** web applications.
+<br>
+
+Software engineer, web developer, web designer, and 3D animator (for fun) focused on creating high quality **enterprise software** and **modern websites**.
+
+<br>
 
 ![BackGround](img/Line.png)
 
-## Statics
+<br>
 
 <div align=center>
 
-### My GitHub Stats
+## Statics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 ![BackGround](img/Line.png)
 
+<br>
+
+### My GitHub Stats
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+![BackGround](img/Line.png)
+
+<br>
+
 ### Most Used Languages
 
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 <div align=left>
 
@@ -46,7 +69,19 @@ Hi! I am a **software engineering**, **web developer**, **web designer**, and **
 
 </div>
 
+<br>
+
 ![BackGround](img/Line.png)
+
+<br>
+
+## Technologies
+
+<br>
+
+![BackGround](img/Line.png)
+
+<br>
 
 ### Programming Languages
 
@@ -54,9 +89,9 @@ Hi! I am a **software engineering**, **web developer**, **web designer**, and **
 
 <div align=left>
 
-**Programming languages...** I usually get in contact with various programming languages. The programming languages which I have more experience with are: **Java**, **PHP**, **JavaScript**, **TypeScript**, and **Python**.
+I get in contact with various programming languages. The programming languages which I have more experience with are: **Java**, **PHP**, **JavaScript**, **TypeScript**, and **Python**.
 
-I also have experience in designing web applications using modern **Html5**, **Css3**, **Sass**, and **AJAX** techniques. **The result:** **modern**, **optimized**, and **responsive web apps**.
+I also have experience in designing web applications using modern **Html5**, **Css3**, **Sass**, and **AJAX** techniques. The result: **modern**, **optimized**, and **responsive websites**.
 
 </div>
 
@@ -69,6 +104,7 @@ I also have experience in designing web applications using modern **Html5**, **C
 ![Kotlin](img/icons/icons8-kotlin.svg)
 ![Dart](img/icons/icons8-dart.svg)
 ![Flutter](img/icons/icons8-flutter.svg)
+
 ![PHP](img/icons/icons8-php.svg)
 ![Ruby](img/icons/icons8-ruby.svg)
 ![Go](img/icons/icons8-golang.svg)
@@ -76,6 +112,7 @@ I also have experience in designing web applications using modern **Html5**, **C
 ![Node](img/icons/icons8-nodejs.svg)
 ![JavaScript](img/icons/icons8-javascript.svg)
 ![TypeScript](img/icons/icons8-typescript.svg)
+
 ![Python](img/icons/icons8-python.svg)
 ![Sass](img/icons/icons8-sass.svg)
 ![HTML5](img/icons/icons8-html-5.svg)
@@ -83,7 +120,9 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 ![BackGround](img/Line.png)
 
-### Frameworks, DBMS, Package/Dependency Managers, and More
+<br>
+
+### Other Tools
 
 <br>
 
@@ -116,6 +155,7 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 <a href="img/icons/icons8-vue-js.svg" target="_blank">
 <img src="img/icons/icons8-vue-js.svg">
 </a>
+
 <a href="img/icons/icons8-bootstrap.svg" target="_blank">
 <img src="img/icons/icons8-bootstrap.svg">
 </a>
@@ -137,6 +177,7 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 <a href="img/icons/vite.svg" target="_blank">
 <img src="img/icons/vite.svg" width="44" height="auto">
 </a>
+
 <a href="img/icons/icons8-git.svg" target="_blank">
 <img src="img/icons/icons8-git.svg">
 </a>
@@ -144,7 +185,11 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 <img src="img/icons/composer.svg" width="46" height="auto">
 </a>
 
+<br>
+
 ![BackGround](img/Line.png)
+
+<br>
 
 ### 3D Modelling and Game Development
 
@@ -152,7 +197,7 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 
 <div align=left>
 
-I usually do 3D modelling using Blender in my free time and some game development either with Unity or Unreal Engine. I have to mention that **I'm not a professional in game development**, but just an amateur who likes to work with digital image processing, 3D graphics, and all that stuff. 
+I do 3D modelling using Blender in my free time and some game development either with Unity or Unreal Engine. **I'm not a professional in game development**, but just an amateur who likes to work with digital image processing, 3D graphics, and all that stuff. 
 
 </div>
 
@@ -162,6 +207,8 @@ I usually do 3D modelling using Blender in my free time and some game developmen
 ![Unreal Engine](img/icons/icons8-unreal-engine.svg)
 ![Unity](img/icons/icons8-unity.svg)
 
+<br>
+
 ![BackGround](img/Line.png)
 
 ### Most Common IDEs and Code Editors
@@ -170,7 +217,7 @@ I usually do 3D modelling using Blender in my free time and some game developmen
 
 <div align=left>
 
-I do use many IDEs and Code Editors for my daily work, but right now the most frequent ones are: VS Code, Apache NetBeans, Eclipse, JetBrains' IDEs, Android Studio, Visual Studio, Blend for Visual Studio, Embarcadero Dev C++, Code::Blogs, and occasionally the Notepad, Notepad++.  
+I use many IDEs and code editors, but the most frequent ones are: Visual Studio Code, Apache NetBeans, Eclipse, JetBrains' IDEs, Android Studio, Visual Studio, Code::Blogs, Notepad, and Notepad++.  
 
 </div>
 
@@ -218,18 +265,8 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 <a href="img/icons/datagrip.svg" target="_blank">
 <img src="img/icons/datagrip.svg" width="46" height="auto">
 </a>
-<a href="img/icons/goland.svg" target="_blank">
-<img src="img/icons/goland.svg" width="46" height="auto">
-</a>
-<a href="img/icons/rider.svg" target="_blank">
-<img src="img/icons/rider.svg" width="46" height="auto">
-</a>
-<a href="img/icons/rubymine.svg" target="_blank">
-<img src="img/icons/rubymine.svg" width="46" height="auto">
-</a>
-<a href="img/icons/dataspell.svg" target="_blank">
-<img src="img/icons/dataspell.svg" width="46" height="auto">
-</a>
+
+<br>
 
 ![BackGround](img/Line.png)
 
@@ -238,8 +275,6 @@ I do use many IDEs and Code Editors for my daily work, but right now the most fr
 ## Courses I have Taken and I Recommend
 
 <br>
-
-Throughout these years, I have taken many programming, computer science, and software engineering courses both in collage and online. So, if your interested in learning programming, I recommend the ones from these instructors:
 
 <details><summary>Angela Yu</summary>
 
@@ -255,6 +290,8 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <!--******************************************************-->
 
+<br>
+
 <details><summary>Maximilian Schwarzmüller</summary>
 
 <br>
@@ -268,6 +305,8 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <!--******************************************************-->
 
+<br>
+
 <details><summary>Chad Darby</summary>
 
 <br>
@@ -279,6 +318,8 @@ Throughout these years, I have taken many programming, computer science, and sof
 </details>
 
 <!--******************************************************-->
+
+<br>
 
 <details><summary>Jonas Schmedtmann</summary>
 
@@ -295,6 +336,8 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <!--******************************************************-->
 
+<br>
+
 <details><summary>Edwin Diaz</summary>
 
 <br>
@@ -310,22 +353,4 @@ Throughout these years, I have taken many programming, computer science, and sof
 
 <br>
 
-Their courses are pretty much complete, and there are also theoretical lectures that helped me to understand why things work the way they do, and gave me a solid foundation about computer science and software engineering topics. So...
-
-> "If you can imagine it, you can program it!"   - ProgramacionATS
-
-<br>
-
 ![BackGround](img/Line.png)
-
-<!--
-
-## Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elegidocodes&repo=Spring-Hibernate-Course&show_owner=true)](https://github.com/elegidocodes/Spring-Hibernate-Course)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elegidocodes&repo=Node-Express-MongoDB-Course&show_owner=true)](https://github.com/elegidocodes/Node-Express-MongoDB-Course)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elegidocodes&repo=Portafolio&show_owner=true)](https://github.com/elegidocodes/Portafolio)
-
-![BackGround](img/Line.png)
-
--->
