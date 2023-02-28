@@ -118,6 +118,8 @@ I also have experience in designing web applications using modern **Html5**, **C
 ![HTML5](img/icons/icons8-html-5.svg)
 ![CSS3](img/icons/icons8-css3.svg)
 
+<br>
+
 ![BackGround](img/Line.png)
 
 <br>
@@ -134,6 +136,7 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 
 <br>
 
+<div>
 <a href="img/icons/hibernate-1.svg" target="_blank">
 <img src="img/icons/hibernate-1.svg" width="40" height="auto">
 </a>
@@ -155,7 +158,9 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 <a href="img/icons/icons8-vue-js.svg" target="_blank">
 <img src="img/icons/icons8-vue-js.svg">
 </a>
+</div>
 
+<div>
 <a href="img/icons/icons8-bootstrap.svg" target="_blank">
 <img src="img/icons/icons8-bootstrap.svg">
 </a>
@@ -165,25 +170,19 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 <a href="img/icons/icons8-mysql.svg" target="_blank">
 <img src="img/icons/icons8-mysql.svg">
 </a>
-<a href="img/icons/icons8-microsoft-sql-server.svg" target="_blank">
-<img src="img/icons/icons8-microsoft-sql-server.svg">
-</a>
-<a href="img/icons/icons8-postgresql.svg" target="_blank">
-<img src="img/icons/icons8-postgresql.svg">
-</a>
 <a href="img/icons/icons8-npm.svg" target="_blank">
 <img src="img/icons/icons8-npm.svg">
 </a>
 <a href="img/icons/vite.svg" target="_blank">
 <img src="img/icons/vite.svg" width="44" height="auto">
 </a>
-
 <a href="img/icons/icons8-git.svg" target="_blank">
 <img src="img/icons/icons8-git.svg">
 </a>
 <a href="img/icons/composer.svg" target="_blank">
 <img src="img/icons/composer.svg" width="46" height="auto">
 </a>
+</div>
 
 <br>
 
@@ -211,6 +210,8 @@ I do 3D modelling using Blender in my free time and some game development either
 
 ![BackGround](img/Line.png)
 
+<br>
+
 ### Most Common IDEs and Code Editors
 
 <br>
@@ -223,8 +224,12 @@ I use many IDEs and code editors, but the most frequent ones are: Visual Studio 
 
 <br>
 
+<div>
 <a href="img/icons/icons8-android-studio.svg" target="_blank">
 <img src="img/icons/icons8-android-studio.svg">
+</a>
+<a href="img/icons/apache-netbeans.svg" target="_blank">
+<img src="img/icons/apache-netbeans.svg" width="46" height="auto">
 </a>
 <a href="img/icons/icons8-java-eclipse.svg" target="_blank">
 <img src="img/icons/icons8-java-eclipse.svg">
@@ -241,12 +246,9 @@ I use many IDEs and code editors, but the most frequent ones are: Visual Studio 
 <a href="img/icons/icons8-notepad++.svg" target="_blank">
 <img src="img/icons/icons8-notepad++.svg">
 </a>
-<a href="img/icons/icons8-windows-notepad.svg" target="_blank">
-<img src="img/icons/icons8-windows-notepad.svg">
-</a>
-<a href="img/icons/apache-netbeans.svg" target="_blank">
-<img src="img/icons/apache-netbeans.svg" width="46" height="auto">
-</a>
+</div>
+
+<div>
 <a href="img/icons/idea.svg" target="_blank">
 <img src="img/icons/idea.svg" width="46" height="auto">
 </a>
@@ -265,12 +267,15 @@ I use many IDEs and code editors, but the most frequent ones are: Visual Studio 
 <a href="img/icons/datagrip.svg" target="_blank">
 <img src="img/icons/datagrip.svg" width="46" height="auto">
 </a>
+</div>
 
 <br>
 
+</div>
+
 ![BackGround](img/Line.png)
 
-</div>
+<br>
 
 ## Courses I have Taken and I Recommend
 
