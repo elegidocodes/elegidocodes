@@ -97,13 +97,11 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 <br>
 
-![C](img/icons/icons8-c.svg)
 ![C++](img/icons/icons8-cpp.svg)
 ![Java](img/icons/icons8-java.svg)
 ![Dart](img/icons/icons8-dart.svg)
 ![PHP](img/icons/icons8-php.svg)
 ![Python](img/icons/icons8-python.svg)
-![Node](img/icons/icons8-nodejs.svg)
 
 ![HTML5](img/icons/icons8-html-5.svg)
 ![CSS3](img/icons/icons8-css3.svg)
