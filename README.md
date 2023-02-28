@@ -99,24 +99,18 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 ![C](img/icons/icons8-c.svg)
 ![C++](img/icons/icons8-cpp.svg)
-![C#](img/icons/icons8-c-sharp.svg)
 ![Java](img/icons/icons8-java.svg)
-![Kotlin](img/icons/icons8-kotlin.svg)
 ![Dart](img/icons/icons8-dart.svg)
-![Flutter](img/icons/icons8-flutter.svg)
-
 ![PHP](img/icons/icons8-php.svg)
-![Ruby](img/icons/icons8-ruby.svg)
-![Go](img/icons/icons8-golang.svg)
-![Rust](img/icons/icons8-rust.svg)
+![Python](img/icons/icons8-python.svg)
 ![Node](img/icons/icons8-nodejs.svg)
+
+![HTML5](img/icons/icons8-html-5.svg)
+![CSS3](img/icons/icons8-css3.svg)
+![Sass](img/icons/icons8-sass.svg)
 ![JavaScript](img/icons/icons8-javascript.svg)
 ![TypeScript](img/icons/icons8-typescript.svg)
 
-![Python](img/icons/icons8-python.svg)
-![Sass](img/icons/icons8-sass.svg)
-![HTML5](img/icons/icons8-html-5.svg)
-![CSS3](img/icons/icons8-css3.svg)
 
 <br>
 
