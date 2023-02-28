@@ -37,12 +37,6 @@ Software engineer, web developer, web designer, and 3D animator (for fun) focuse
 
 <br>
 
-<div align=center>
-
-### My GitHub Stats
-
-<br>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
@@ -51,19 +45,12 @@ Software engineer, web developer, web designer, and 3D animator (for fun) focuse
 
 <br>
 
-### Most Used Languages
-
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-<div align=left>
-
 **Note:** most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-</div>
 
 <br>
 
@@ -71,27 +58,24 @@ Software engineer, web developer, web designer, and 3D animator (for fun) focuse
 
 <br>
 
-<div align=left>
 
 ## Technologies
 
-</div>
 
 <br>
+
 
 ### Programming Languages
 
 <br>
 
-<div align=left>
-
 I get in contact with various programming languages. The programming languages which I have more experience with are: **Java**, **PHP**, **JavaScript**, **TypeScript**, and **Python**.
 
 I also have experience in designing web applications using modern **Html5**, **Css3**, **Sass**, and **AJAX** techniques. The result: **modern**, **optimized**, and **responsive websites**.
 
-</div>
-
 <br>
+
+<div align="center">
 
 ![C++](img/icons/icons8-cpp.svg)
 ![Java](img/icons/icons8-java.svg)
@@ -105,6 +89,7 @@ I also have experience in designing web applications using modern **Html5**, **C
 ![JavaScript](img/icons/icons8-javascript.svg)
 ![TypeScript](img/icons/icons8-typescript.svg)
 
+</div>
 
 <br>
 
@@ -112,17 +97,16 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 <br>
 
+
 ### Other Tools
 
 <br>
 
-<div align=left>
-
 I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have also been in contact with frond-end frameworks and libraries like Angular and React. Currently, I am more focused in **back-end development**, so I have more experience with Spring and Laravel. 
 
-</div>
-
 <br>
+
+<div align="center">
 
 <div>
 <a href="img/icons/laravel.svg" target="_blank">
@@ -139,6 +123,8 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 </a>
 </div>
 
+</div>
+
 <br>
 
 ![BackGround](img/Line.png)
@@ -149,17 +135,17 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 
 <br>
 
-<div align=left>
-
 I do 3D modelling using Blender in my free time and some game development either with Unity or Unreal Engine. **I'm not a professional in game development**, but just an amateur who likes to work with digital image processing, 3D graphics, and all that stuff. 
 
-</div>
-
 <br>
+
+<div align="center">
 
 ![Blender](img/icons/icons8-blender-3d.svg)
 ![Unreal Engine](img/icons/icons8-unreal-engine.svg)
 ![Unity](img/icons/icons8-unity.svg)
+
+</div>
 
 <br>
 
@@ -171,13 +157,11 @@ I do 3D modelling using Blender in my free time and some game development either
 
 <br>
 
-<div align=left>
-
 I use many IDEs and code editors, but the most frequent ones are: Apache NetBeans, Eclipse, JetBrains' IDEs, Android Studio, Visual Studio, Visual Studio Code, and Code::Blogs.
 
-</div>
-
 <br>
+
+<div align="center">
 
 <div>
 <a href="img/icons/icons8-android-studio.svg" target="_blank">
@@ -189,14 +173,14 @@ I use many IDEs and code editors, but the most frequent ones are: Apache NetBean
 <a href="img/icons/icons8-java-eclipse.svg" target="_blank">
 <img src="img/icons/icons8-java-eclipse.svg">
 </a>
-<a href="img/icons/icons8-visual-studio.svg" target="_blank">
-<img src="img/icons/icons8-visual-studio.svg">
-</a>
 <a href="img/icons/icons8-visual-studio-code-2019.svg" target="_blank">
 <img src="img/icons/icons8-visual-studio-code-2019.svg">
 </a>
 <a href="img/icons/icons8-code-blocks.svg" target="_blank">
 <img src="img/icons/icons8-code-blocks.svg">
+</a>
+<a href="img/icons/icons8-notepad++.svg" target="_blank">
+<img src="img/icons/icons8-notepad++.svg">
 </a>
 </div>
 
