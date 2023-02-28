@@ -17,7 +17,7 @@ public class FernandoCanulCaballero{
 
 <br>
 
-![BackGround](img/Line.png)
+![BackGround](img/line.png)
 
 <br>
 
@@ -29,7 +29,7 @@ Software engineer, web developer, web designer, and 3D animator (for fun) focuse
 
 <br>
 
-![BackGround](img/Line.png)
+![BackGround](img/line.png)
 
 <br>
 
@@ -41,7 +41,7 @@ Software engineer, web developer, web designer, and 3D animator (for fun) focuse
 
 <br>
 
-![BackGround](img/Line.png)
+![BackGround](img/line.png)
 
 <br>
 
@@ -54,7 +54,7 @@ Software engineer, web developer, web designer, and 3D animator (for fun) focuse
 
 <br>
 
-![BackGround](img/Line.png)
+![BackGround](img/line.png)
 
 <br>
 
@@ -93,7 +93,7 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 <br>
 
-![BackGround](img/Line.png)
+![BackGround](img/line.png)
 
 <br>
 
@@ -127,7 +127,7 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 
 <br>
 
-![BackGround](img/Line.png)
+![BackGround](img/line.png)
 
 <br>
 
@@ -149,7 +149,7 @@ I do 3D modelling using Blender in my free time and some game development either
 
 <br>
 
-![BackGround](img/Line.png)
+![BackGround](img/line.png)
 
 <br>
 
@@ -209,7 +209,7 @@ I use many IDEs and code editors, but the most frequent ones are: Apache NetBean
 
 <br>
 
-![BackGround](img/Line.png)
+![BackGround](img/line.png)
 
 <br>
 
@@ -294,4 +294,4 @@ I use many IDEs and code editors, but the most frequent ones are: Apache NetBean
 
 <br>
 
-![BackGround](img/Line.png)
+![BackGround](img/line.png)
