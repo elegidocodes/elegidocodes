@@ -198,9 +198,6 @@ I use many IDEs and code editors, but the most frequent ones are: Apache NetBean
 <a href="img/icons/icons8-code-blocks.svg" target="_blank">
 <img src="img/icons/icons8-code-blocks.svg">
 </a>
-<a href="img/icons/icons8-notepad++.svg" target="_blank">
-<img src="img/icons/icons8-notepad++.svg">
-</a>
 </div>
 
 <div>
