@@ -77,17 +77,17 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 <div align="center">
 
-![C++](img/icons/icons8-cpp.svg)
-![Java](img/icons/icons8-java.svg)
-![Dart](img/icons/icons8-dart.svg)
-![PHP](img/icons/icons8-php.svg)
-![Python](img/icons/icons8-python.svg)
+![C++](img/icons/cpp.svg)
+![Java](img/icons/java.svg)
+![Dart](img/icons/dart.svg)
+![PHP](img/icons/php.svg)
+![Python](img/icons/python.svg)
 
-![HTML5](img/icons/icons8-html-5.svg)
-![CSS3](img/icons/icons8-css3.svg)
-![Sass](img/icons/icons8-sass.svg)
-![JavaScript](img/icons/icons8-javascript.svg)
-![TypeScript](img/icons/icons8-typescript.svg)
+![HTML5](img/icons/html.svg)
+![CSS3](img/icons/css.svg)
+![Sass](img/icons/sass.svg)
+![JavaScript](img/icons/javascript.svg)
+![TypeScript](img/icons/typescript.svg)
 
 </div>
 
@@ -118,8 +118,8 @@ I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have 
 <a href="img/icons/angular.svg" target="_blank">
 <img src="img/icons/angular.svg" width="42" height="auto">
 </a>
-<a href="img/icons/icons8-spring.svg" target="_blank">
-<img src="img/icons/icons8-spring.svg">
+<a href="img/icons/spring.svg" target="_blank">
+<img src="img/icons/spring.svg">
 </a>
 </div>
 
@@ -141,9 +141,9 @@ I do 3D modelling using Blender in my free time and some game development either
 
 <div align="center">
 
-![Blender](img/icons/icons8-blender-3d.svg)
-![Unreal Engine](img/icons/icons8-unreal-engine.svg)
-![Unity](img/icons/icons8-unity.svg)
+![Blender](img/icons/blender.svg)
+![Unreal Engine](img/icons/unreal.svg)
+![Unity](img/icons/unity.svg)
 
 </div>
 
@@ -164,23 +164,23 @@ I use many IDEs and code editors, but the most frequent ones are: Apache NetBean
 <div align="center">
 
 <div>
-<a href="img/icons/icons8-android-studio.svg" target="_blank">
-<img src="img/icons/icons8-android-studio.svg">
+<a href="img/icons/studio.svg" target="_blank">
+<img src="img/icons/studio.svg">
 </a>
-<a href="img/icons/apache-netbeans.svg" target="_blank">
-<img src="img/icons/apache-netbeans.svg" width="46" height="auto">
+<a href="img/icons/netbeans.svg" target="_blank">
+<img src="img/icons/netbeans.svg" width="46" height="auto">
 </a>
-<a href="img/icons/icons8-java-eclipse.svg" target="_blank">
-<img src="img/icons/icons8-java-eclipse.svg">
+<a href="img/icons/eclipse.svg" target="_blank">
+<img src="img/icons/eclipse.svg">
 </a>
-<a href="img/icons/icons8-visual-studio-code-2019.svg" target="_blank">
-<img src="img/icons/icons8-visual-studio-code-2019.svg">
+<a href="img/icons/vsc.svg" target="_blank">
+<img src="img/icons/vsc.svg">
 </a>
-<a href="img/icons/icons8-code-blocks.svg" target="_blank">
-<img src="img/icons/icons8-code-blocks.svg">
+<a href="img/icons/blocks.svg" target="_blank">
+<img src="img/icons/blocks.svg">
 </a>
-<a href="img/icons/icons8-notepad++.svg" target="_blank">
-<img src="img/icons/icons8-notepad++.svg">
+<a href="img/icons/notepad.svg" target="_blank">
+<img src="img/icons/notepad.svg">
 </a>
 </div>
 
