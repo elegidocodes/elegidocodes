@@ -37,16 +37,24 @@ Software engineer, web developer, web designer, and 3D animator (for fun) focuse
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>  
+  
 <br>
 
 ![BackGround](img/line.png)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+  
 <br>
 
 **Note:** most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
