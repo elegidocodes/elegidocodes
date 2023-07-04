@@ -7,7 +7,7 @@
 public class Greeting{
 
   public static void main(String[] args){
-    System.println("Hello, Github!");
+    System.println("Hello, GitHub user!");
   }
 
 }
@@ -16,54 +16,33 @@ public class Greeting{
 
 ## About Me
 
-Software engineer, web developer, web designer, and 3D animator (for fun) focused on creating high quality **enterprise software** and **modern websites**.
+Software engineer, developer, designer, and 3D animator focused on creating high quality **enterprise software**, **mobile apps**, and **modern websites**.
 
 ![BackGround](img/line.png)
 
-<!--
-
 ## Statics
-
-<br>
 
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
-  
-<br>
-
-![BackGround](img/line.png)
-
-<br>
 
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-  
-<br>
 
 **Note:** most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br>
-
 ![BackGround](img/line.png)
-
-<br>
-
--->
 
 ## Technologies
 
 ### Programming Languages
 
-I get in contact with various programming languages. The programming languages which I have more experience with are: **Java**, **PHP**, **JavaScript**, **TypeScript**, and **Python**.
-
-I also have experience in designing web applications using modern **Html5**, **Css3**, **Sass**, and **AJAX** techniques. The result: **modern**, **optimized**, and **responsive websites**.
+I get in contact with various programming languages. The programming languages which I have more experience with are: **Java**, **Kotlin**, **C++**, **PHP**, **JavaScript**, **TypeScript**, and **Python**.
 
 <div align="center">
 
@@ -85,7 +64,7 @@ I also have experience in designing web applications using modern **Html5**, **C
 
 ### Other Tools
 
-I mainly work with Spring Framework, Spring Boot and Hibernate. However, I have also been in contact with frond-end frameworks and libraries like Angular and React. Currently, I am more focused in **back-end development**, so I have more experience with Spring and Laravel. 
+For backend, I mainly work with Spring Framework, Spring Boot, Hibernate, and Laravel. As for frondend, Angular and React.
 
 <div align="center">
 
