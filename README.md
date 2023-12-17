@@ -24,13 +24,13 @@ Software engineer, developer, designer, and 3D animator focused on creating high
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats-elegidocodes.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+![Elegido's GitHub stats](https://github-readme-stats-elegido.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs&hide_border=false)
 
 </div>  
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats-elegidocodes.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub's Top Languages](https://github-readme-stats-elegido.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=false)
 
 </div>
 
