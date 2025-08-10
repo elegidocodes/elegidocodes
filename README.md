@@ -25,7 +25,7 @@ I love turning complex problems into clean, efficient, and user-friendly applica
 
 ![BackGround](img/line.png)
 
-## My Github's Stats
+## My GitHub's Stats
 
 <div align="center">
 
@@ -35,7 +35,7 @@ I love turning complex problems into clean, efficient, and user-friendly applica
 
 </div>  
 
-**Note:** most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+_**Note:** most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
 
 ![BackGround](img/line.png)
 
@@ -58,8 +58,6 @@ I get in contact with various programming languages. The programming languages w
 ![Dart](img/icons/dart.svg)
 ![PHP](img/icons/php.svg)
 ![Python](img/icons/python.svg)
-
-
 
 </div>
 
