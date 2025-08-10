@@ -16,7 +16,12 @@ public class Greeting{
 
 ## About Me
 
-Software engineer, developer, designer, and 3D animator focused on creating high quality **enterprise software**, **mobile apps**, and **modern websites**.
+Hey there! 👋 I’m Elegido, a Software Engineer crafting **scalable web** and **mobile solutions**.
+I love turning complex problems into clean, efficient, and user-friendly applications—whether it’s building a **full-stack** platform from scratch or optimizing existing systems.
+
+🚀 Always exploring new technologies, refining my craft, and delivering code that lasts.
+
+🔗 Curious to see more? Check out my [portfolio!](https://elegidocodes.com/projects/portfolio)
 
 ![BackGround](img/line.png)
 
@@ -46,17 +51,19 @@ I get in contact with various programming languages. The programming languages w
 
 <div align="center">
 
+![HTML5](img/icons/html.svg)
+![CSS3](img/icons/css.svg)
+![Sass](img/icons/sass.svg)
+![JavaScript](img/icons/javascript.svg)
+![TypeScript](img/icons/typescript.svg)
+
 ![C++](img/icons/cpp.svg)
 ![Java](img/icons/java.svg)
 ![Dart](img/icons/dart.svg)
 ![PHP](img/icons/php.svg)
 ![Python](img/icons/python.svg)
 
-![HTML5](img/icons/html.svg)
-![CSS3](img/icons/css.svg)
-![Sass](img/icons/sass.svg)
-![JavaScript](img/icons/javascript.svg)
-![TypeScript](img/icons/typescript.svg)
+
 
 </div>
 
