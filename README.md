@@ -25,19 +25,15 @@ I love turning complex problems into clean, efficient, and user-friendly applica
 
 ![BackGround](img/line.png)
 
-## Statics
+## My Github's Stats
 
 <div align="center">
 
-![Elegido's GitHub stats](https://github-readme-stats-elegido.vercel.app/api?username=elegidocodes&show_icons=true&theme=github_dark&bg_color=00000000&hide=prs&hide_border=false)
+![Elegido's GitHub stats](https://github-readme-stats-elegido.vercel.app/api?username=elegidocodes&rank_icon=github&show_icons=true&theme=transparent)
+
+![My GitHub's Top Languages](https://github-readme-stats-elegido.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=donut-vertical&theme=transparent)
 
 </div>  
-
-<div align="center">
-  
-![My GitHub's Top Languages](https://github-readme-stats-elegido.vercel.app/api/top-langs/?username=elegidocodes&langs_count=10&layout=compact&theme=github_dark&bg_color=00000000&hide_border=false)
-
-</div>
 
 **Note:** most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
